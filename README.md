@@ -11,3 +11,10 @@
  - Learned about iframe tag in html.
  - How to style iframe. 
  - How to make a link show in the iframe by using the target name atribute.
+
+ #### form.html
+ - Learned more about html form and inputs.
+ - Bind the input with lavel.
+ - How for, name, id used in inputs & level
+ - learned form atributes like method - (get/post), autocomplete, action, target.
+ - input atributes like value, placeholded.
