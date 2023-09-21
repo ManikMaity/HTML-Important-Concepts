@@ -18,3 +18,10 @@
  - How for, name, id used in inputs & level
  - learned form atributes like method - (get/post), autocomplete, action, target.
  - input atributes like value, placeholded.
+ - Learned input attributes (part 2) :
+    - value
+    - size
+    - readonly
+    - disabled
+    - maxlength
+    - min, max , step
